@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kuro_0: -1839555073034757673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

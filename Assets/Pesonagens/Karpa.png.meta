@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Karpa_0: 1717420964582476131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
