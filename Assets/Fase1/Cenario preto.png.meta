@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cenario preto_0: 5726088383195983234
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

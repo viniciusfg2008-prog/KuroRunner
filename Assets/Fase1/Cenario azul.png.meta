@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cenario azul_0: 5318615594448180684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

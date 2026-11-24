@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cenario - Fase 1_0: 7258338257482723292
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
